@@ -3,4 +3,4 @@
 
  - feature-A
  - fix-B
- - fxature-C 
+ - feature-C 
